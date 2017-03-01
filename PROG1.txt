@@ -1,4 +1,4 @@
-1. Coche: http://dle.rae.es/?id=9ZNs7ye|9ZO4sFe
+﻿1. Coche: http://dle.rae.es/?id=9ZNs7ye|9ZO4sFe
 2. Camión: http://dle.rae.es/?id=6y1pUlj
 3. Espejo: http://dle.rae.es/?id=GXygkNV
 4. Bolígrafo: http://dle.rae.es/?id=5nfscMk
@@ -8,3 +8,25 @@
 8. Bolsa: http://dle.rae.es/?id=5offwNC|5oiUDdr
 9. Mochila: http://dle.rae.es/?id=PStX6ei
 10. Cazadora: http://dle.rae.es/?id=83AxHRQ
+
+jsousp00
+
+1. agua - http://dle.rae.es/?id=1BKpQj3
+
+2. fuente - http://dle.rae.es/?id=IYZhVtl
+
+3. pizarra - http://dle.rae.es/?id=TH2LOcj
+
+4. profesor - http://dle.rae.es/?id=UICA2EZ
+
+5. pantalla - http://dle.rae.es/?id=RibGXgi
+
+6. camisa - http://dle.rae.es/?id=6y9BGAI
+
+7. teclado - http://dle.rae.es/?id=ZIOsimV
+
+8. letra - http://dle.rae.es/?id=NAwHNtA
+
+9. hoja - http://dle.rae.es/?id=KYSU0CJ
+
+10. mesa - http://dle.rae.es/?id=P1le2lc
